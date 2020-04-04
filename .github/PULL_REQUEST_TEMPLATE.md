@@ -1,25 +1,16 @@
+<!-- ** This is an Overleaf public repository ** -->
 
-<!-- Please review https://github.com/overleaf/write_latex/blob/master/.github/CONTRIBUTING.md for guidance on what is expected in each section. -->
+<!-- Please review https://github.com/overleaf/overleaf/blob/master/CONTRIBUTING.md for guidance on what is expected of a contribution. -->
 
 ### Description
 
-
-
 #### Screenshots
-
-
 
 #### Related Issues / PRs
 
-
-
 ### Review
 
-
-
 #### Potential Impact
-
-
 
 #### Manual Testing Performed
 
@@ -28,11 +19,7 @@
 
 #### Accessibility
 
-
-
 ### Deployment
-
-
 
 #### Deployment Checklist
 
@@ -40,7 +27,5 @@
 - [ ]
 
 #### Metrics and Monitoring
-
-
 
 #### Who Needs to Know?
