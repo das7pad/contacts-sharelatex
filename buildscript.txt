@@ -2,3 +2,4 @@ contacts
 --language=es
 --node-version=12.16.2
 --dependencies=mongo,
+--lint-runner-version=1.0.1
