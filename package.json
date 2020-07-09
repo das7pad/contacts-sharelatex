@@ -19,7 +19,6 @@
     "format:fix": "node_modules/.bin/prettier-eslint $PWD'/**/*.js' --write"
   },
   "dependencies": {
-    "async": "^2.6.3",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "logger-sharelatex": "git+https://github.com/das7pad/logger-sharelatex.git#bef2078daae2433a43e61db306e301398199daa0",
@@ -30,6 +29,7 @@
     "underscore": "~1.9.2"
   },
   "devDependencies": {
+    "async": "^2.6.3",
     "chai": "~4.2.0",
     "mocha": "^7.1.1",
     "sandboxed-module": "~2.0.3",
